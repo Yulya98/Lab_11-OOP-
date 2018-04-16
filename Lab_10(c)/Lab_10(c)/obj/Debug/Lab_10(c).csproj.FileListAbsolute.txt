@@ -1,0 +1,6 @@
+C:\Users\Yulya\source\repos\Lab_10(c)\Lab_10(c)\obj\Debug\Lab_10(c).csproj.CoreCompileInputs.cache
+C:\Users\Yulya\source\repos\Lab_10(c)\Lab_10(c)\bin\Debug\Lab_10(c).exe.config
+C:\Users\Yulya\source\repos\Lab_10(c)\Lab_10(c)\bin\Debug\Lab_10(c).exe
+C:\Users\Yulya\source\repos\Lab_10(c)\Lab_10(c)\bin\Debug\Lab_10(c).pdb
+C:\Users\Yulya\source\repos\Lab_10(c)\Lab_10(c)\obj\Debug\Lab_10(c).exe
+C:\Users\Yulya\source\repos\Lab_10(c)\Lab_10(c)\obj\Debug\Lab_10(c).pdb

@@ -1,0 +1,14 @@
+C:\Users\Yulya\source\repos\Lab_11(OOP)\Lab_11(OOP)\obj\Debug\Lab_11(OOP).csproj.CoreCompileInputs.cache
+C:\Users\Yulya\source\repos\Lab_11(OOP)\Lab_11(OOP)\bin\Debug\Lab_11(OOP).exe.config
+C:\Users\Yulya\source\repos\Lab_11(OOP)\Lab_11(OOP)\bin\Debug\Lab_11(OOP).exe
+C:\Users\Yulya\source\repos\Lab_11(OOP)\Lab_11(OOP)\bin\Debug\Lab_11(OOP).pdb
+C:\Users\Yulya\source\repos\Lab_11(OOP)\Lab_11(OOP)\obj\Debug\Lab_11(OOP).exe
+C:\Users\Yulya\source\repos\Lab_11(OOP)\Lab_11(OOP)\obj\Debug\Lab_11(OOP).pdb
+C:\Users\Yulya\source\repos\Lab_11(OOP)\Lab_11(OOP)\obj\Debug\Lab_11(OOP).csprojResolveAssemblyReference.cache
+C:\Users\Yulya\source\repos\Lab_11(OOP)(LINQ)\Lab_11(OOP)\bin\Debug\Lab_11(OOP).exe.config
+C:\Users\Yulya\source\repos\Lab_11(OOP)(LINQ)\Lab_11(OOP)\obj\Debug\Lab_11(OOP).exe
+C:\Users\Yulya\source\repos\Lab_11(OOP)(LINQ)\Lab_11(OOP)\obj\Debug\Lab_11(OOP).pdb
+C:\Users\Yulya\source\repos\Lab_11(OOP)(LINQ)\Lab_11(OOP)\bin\Debug\Lab_11(OOP).exe
+C:\Users\Yulya\source\repos\Lab_11(OOP)(LINQ)\Lab_11(OOP)\bin\Debug\Lab_11(OOP).pdb
+C:\Users\Yulya\source\repos\Lab_11(OOP)(LINQ)\Lab_11(OOP)\obj\Debug\Lab_11(OOP).csprojResolveAssemblyReference.cache
+C:\Users\Yulya\source\repos\Lab_11(OOP)(LINQ)\Lab_11(OOP)\obj\Debug\Lab_11(OOP).csproj.CoreCompileInputs.cache
